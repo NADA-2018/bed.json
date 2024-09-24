@@ -1,0 +1,172 @@
+
+{
+    "products": [
+      {
+        "id": "bed1",
+        "name": "Amanda Bed room",
+        "description": " featuring a luxurious bed, spacious closet, two night stands, and a dresser - all made from high-quality lumber boards.",
+        "category": "Bedroom",
+        "price": 3500,
+        "photo": {
+            "main": "https://d.img.vision/nadakhaled/bed_room_-1.jpg",
+            "additional":[
+                "https://d.img.vision/nadakhaled/bed_room_-11.jpg",
+                "https://d.img.vision/nadakhaled/bed_room_-12.jpg"
+            ]
+
+        }
+        
+      },
+      {
+        "id": "bed2",
+        "name": "Lotus Bed room",
+        "description": "a cozy and functional addition to any bedroom. With its comfortable design, it provides a cozy atmosphere for a good night's sleep.",
+        "category": "Bedroom",
+        "price": 2500,
+        "photo": {
+            "main": "https://d.img.vision/nadakhaled/bed_room_-2.jpg",
+            "additional":[
+                "https://d.img.vision/nadakhaled/bed_room_-21.jpg",
+                "https://d.img.vision/nadakhaled/bed_room_-22.jpg"
+            ]
+
+        }
+        
+      },
+      {
+        "id": "bed3",
+        "name": "Rayan Bed room",
+        "description": "provides both function and style. The sturdy frame ensures durability while the comfortable upholstered.Enhance your sleeping experience with this expertly designed bedroom set.",
+        "category": "Bedroom",
+        "price": 4500,
+        "bed size": "120cm",
+        "photo": {
+            "main": "https://d.img.vision/nadakhaled/bed_room_3.jpg",
+            "additional":[
+                "https://d.img.vision/nadakhaled/bed_room_31.jpg",
+                "https://d.img.vision/nadakhaled/bed_room_32.jpg",
+                "https://d.img.vision/nadakhaled/bed_room_33.jpg"
+            ]
+
+        }
+        
+      },
+      {
+        "id": "bed4",
+        "name": "Tofo Bed room",
+        "description": " featuring a luxurious bed, spacious closet, two night stands, and a dresser - all made from high-quality lumber boards.",
+        "category": "Bedroom",
+        "price": 4000,
+        "photo": {
+            "main": "https://d.img.vision/nadakhaled/bed_room_4.jpg",
+            "additional":[
+                "https://d.img.vision/nadakhaled/bed_room_41.jpg",
+                "https://d.img.vision/nadakhaled/bed_room_42.jpg"
+    
+            ]
+
+        }
+        
+      },
+    {
+        "id": "bed5",
+        "name": "Sole Bed room",
+        "description": "The sturdy frame ensures durability while the comfortable upholstered head board adds a touch of luxury to your bedroom",
+        "category": "Bedroom",
+        "price": 3500,
+        "photo": {
+            "main": "https://d.img.vision/nadakhaled/bed_room-5.jpg",
+            "additional":[
+                "https://d.img.vision/nadakhaled/bed_room_-51.jpg",
+                "https://d.img.vision/nadakhaled/bed_room-52.jpg",
+                "https://d.img.vision/nadakhaled/bed_room-53.jpg"
+    
+            ]
+
+        }
+        
+      },
+      {
+        "id": "bed6",
+        "name": "Riva Bed room",
+        "description": "a stylish and cozy upholstered bed that includes a closet, two commodes, and a dresser.",
+        "category": "Bedroom",
+        "price": 2500,
+        "photo": {
+            "main": "https://d.img.vision/nadakhaled/bed_room-6.jpg",
+            "additional":[
+                "https://d.img.vision/nadakhaled/bed_room-61.jpg",
+                "https://d.img.vision/nadakhaled/bed_room-62.jpg",
+                "https://d.img.vision/nadakhaled/bed_room-63.jpg"
+    
+            ]
+
+        }
+        
+      },{
+        "id": "bed7",
+        "name": "Z Bed",
+        "description": "offers a comfortable, minimalist design that promotes relaxation and functionality.",
+        "category": "Bedroom",
+        "dimensions": {
+          "width": "60 inches",
+          "length": "80 inches",
+          "height": "50 inches"
+        },
+        "price": 500,
+        "photo": {
+            "main": "https://d.img.vision/nadakhaled/bed_7.jpg"
+
+        }
+        
+      },{
+        "id": "bed8",
+        "name": "viora Bed",
+        "description": "offers a comfortable and luxurious sleeping experience, thanks to its high-quality design. With a focus on comfort and durability.",
+        "category": "Bedroom",
+        "dimensions": {
+          "width": "60 inches",
+          "length": "80 inches",
+          "height": "50 inches"
+        },
+        "price": 1000,
+        "photo": {
+            "main": "https://d.img.vision/nadakhaled/bed_8.jpg"
+            
+        }
+        
+      },{
+        "id": "bed9",
+        "name": "Luna Bed",
+        "description": "This high quality bed, designed by experts, promises a peaceful sleep every night.",
+        "category": "Bedroom",
+        "dimensions": {
+          "width": "60 inches",
+          "length": "80 inches",
+          "height": "50 inches"
+        },
+        "price": 1500,
+        "photo": {
+            "main": "https://d.img.vision/nadakhaled/bed_9.jpg"
+            
+
+        }
+        
+      },{
+        "id": "bed10",
+        "name": "Deniz Bed",
+        "description": "This high quality bed, designed by experts, promises a peaceful sleep every night.",
+        "category": "Bedroom",
+        "dimensions": {
+          "width": "60 inches",
+          "length": "80 inches",
+          "height": "50 inches"
+        },
+        "price": 2000,
+        "photo": {
+            "main": "https://d.img.vision/nadakhaled/bed10.jpg"
+           
+        }
+        
+      }
+  ]}
